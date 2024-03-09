@@ -1,0 +1,22 @@
+{
+  "name": "milktea-protocol",
+  "version": "1.1.0",
+  "description": "blockchain modular for bitcoin ",
+  "main": "milktea.js",
+  "scripts": {
+    "test": "npm run dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/n0thing66/milktea-protocol.git"
+  },
+  "keywords": [
+    "milktea-protocol"
+  ],
+  "author": "j0yboy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/n0thing66/milktea-protocol/issues"
+  },
+  "homepage": "https://github.com/n0thing66/milktea-protocol#readme"
+}
